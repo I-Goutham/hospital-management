@@ -14,10 +14,6 @@
 
 ![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
 
-### Doctor list
-
-## ![doctor snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
-
 ## Functions
 
 ### Admin
